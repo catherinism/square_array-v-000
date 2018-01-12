@@ -1,6 +1,6 @@
 def square_array(array)
-  numbers = [ , , ]
+  numbers = []
 
 
-  
+
 end
